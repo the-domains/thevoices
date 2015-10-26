@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-26T01:19:59.077Z'
-dateModified: '2015-10-26T01:19:44.261Z'
-title: The voices
+datePublished: '2015-10-26T01:46:41.455Z'
+dateModified: '2015-10-26T01:46:31.758Z'
+title: The Voices
 authors: []
 publisher:
   name: null
@@ -21,6 +21,6 @@ url: the-voices/index.html
 _type: Article
 
 ---
-# The voices
+# **The Voices**
 
-The voices weekly interviews .
+# Weekly updated interviews with the most influential, unique, and new voices of independent cinema.
