@@ -4,7 +4,7 @@
         <description><![CDATA[thevoices]]></description>
         <link>https://thegrid.ai/thevoices/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 01:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2015 01:46:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thevoices/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Quentin Tarantino | The Talks]]></title>
@@ -12,27 +12,6 @@
             <link>http://the-talks.com/interviews/quentin-tarantino/</link>
             <guid isPermaLink="false">d229b2ea-2376-4264-957c-78d85ff835aa</guid>
             <pubDate>Mon, 26 Oct 2015 01:21:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Review]]></title>
-            <description><![CDATA[<h1>Review</h1>]]></description>
-            <link>https://thegrid.ai/thevoices/review/index.html</link>
-            <guid isPermaLink="false">3c153a41-22ff-4431-9cce-720b4b935a34</guid>
-            <pubDate>Mon, 26 Oct 2015 01:21:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Voices]]></title>
-            <description><![CDATA[<h1>Voices</h1>]]></description>
-            <link>https://thegrid.ai/thevoices/voices/index.html</link>
-            <guid isPermaLink="false">35b13ca5-5562-4579-aad2-a5529bdce64f</guid>
-            <pubDate>Mon, 26 Oct 2015 01:21:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The voices]]></title>
-            <description><![CDATA[<h1>The voices</h1>]]></description>
-            <link>https://thegrid.ai/thevoices/the-voices/index.html</link>
-            <guid isPermaLink="false">9b87fd7b-4bb7-41ee-b137-b5f3232d8d4c</guid>
-            <pubDate>Mon, 26 Oct 2015 01:19:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
