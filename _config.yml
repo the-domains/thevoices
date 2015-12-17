@@ -1,7 +1,7 @@
 name: thevoices
 favicon: null
-layout_spectrum: 0.74324
-typography_spectrum: 0.5511706210672855
+layout_spectrum: 0.88347
+typography_spectrum: 0.90843
 title: Voices
 cta:
   domain: null
@@ -16,9 +16,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 1
-  lightness: 0.4013010459020734
-  saturation: 0.06161120953038335
-  rhythmicContrast: 0.9570212282706052
+  brandColors:
+    - '#050004'
+    - '#f0e1cc'
+    - '#846338'
+    - '#c1b493'
+    - '#bd8d4f'
+  brandStrength: 0.6875
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
